@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2484
     wikipedia: http://en.wikipedia.org/wiki/John_Ames_Mitchell
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30600#The-Pines-of-Lory
 gutenberg_issued: '2009-12-04'
 gutenberg_type: Text
 identifiers:
